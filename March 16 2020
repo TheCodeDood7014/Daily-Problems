@@ -1,0 +1,18 @@
+Accepted Languages: C++, Python
+Difficulty: 3*
+Objective: Make a diamond shape. the input is just one number a (1 <= a <= 100). the output will be a diamond shape based on the number.
+
+Sample input:
+
+3
+
+Sample output
+  /\
+ /  \
+/    \
+\    /
+ \  /
+  \/
+  
+Time limit: 1ms
+Code length limit: 3KB
