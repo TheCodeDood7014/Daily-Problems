@@ -17,3 +17,6 @@ Sample output
   
 Time limit: 1ms
 Code length limit: 3KB
+
+HINT:
+Is there a pattern with those spaces before and after the first slash? Create two lists to record these number of spaces down!
