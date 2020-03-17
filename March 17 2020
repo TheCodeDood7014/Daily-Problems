@@ -1,0 +1,20 @@
+Accepted languages: C++, Python
+
+Objective: make a number maze.
+The input is a number n (1 <= n <= 100). The output is a number maze related to the number n.
+
+Sample input
+
+5
+
+Sample output
+
+    1   10   11   20   21
+    2    9   12   19   22
+    3    8   13   18   23
+    4    7   14   17   24
+    5    6   15   16   25
+    
+HINT
+
+you will need two 2D lists.
